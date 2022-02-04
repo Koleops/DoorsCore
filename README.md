@@ -2,7 +2,7 @@
 
 The **DoorsCore** is an extension module for the Expression 2 Chip. It allows you to create portals.
 
-This addon works thanks to bliptec's [world-portals](https://github.com/bliptec/world-portals) and is most likely incompatible (for the time being) with [Doors](https://steamcommunity.com/sharedfiles/filedetails/?id=499280258).
+This add-on works thanks to bliptec's [world-portals](https://github.com/bliptec/world-portals) and is most likely incompatible (for the time being) with [Doors](https://steamcommunity.com/sharedfiles/filedetails/?id=499280258).
 
 Feel free to report any **bugs** or **problems** you encounter with this extension.
 
